@@ -14,8 +14,6 @@
 
 
 
-#### * "When employing PCA in conjunction with Fuzzy C-means clustering, it appears that the algorithm converges more efficiently, displaying a notable improvement in convergence quality compared to using the entire (all) dataset. This observation is particularly evident when the dataset is smaller and simpler than our own."
-
 
 
  
