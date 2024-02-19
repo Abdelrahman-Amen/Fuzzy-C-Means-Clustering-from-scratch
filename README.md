@@ -18,7 +18,7 @@ In this repository, we provide an implementation of the Fuzzy C-Means algorithm 
  
 
 
-*# Fuzzy C-mean (FCM): 
+# Fuzzy C-mean (FCM): 
 * Dividing the data points to set of clusters using membership function between each point in the dataset and all clusters centroids.
 * A particular data of the set may be the member of several clusters with different values of membership.
 * Input for FCM: Data , C (number of clusters)
