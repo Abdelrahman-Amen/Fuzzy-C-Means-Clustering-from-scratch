@@ -1,4 +1,4 @@
-# Fuzzy C-Means Clustering
+# Fuzzy C-Means Clustering ❄
 Welcome to the Fuzzy C-Means Clustering repository! This repository hosts an implementation of the Fuzzy C-Means (FCM) algorithm from scratch, a powerful tool in the realm of  clustering and data analysis.
 
 # Introduction
