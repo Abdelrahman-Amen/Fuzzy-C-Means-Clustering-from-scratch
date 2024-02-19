@@ -34,12 +34,18 @@ In this repository, we provide an implementation of the Fuzzy C-Means algorithm 
 
 
 ![Screenshot 2024-02-20 001143](https://github.com/Abdelrahman-Amen/Fuzzy-C-Means-Clustering-from-scratch/assets/103226865/bbe0b15e-6b70-41e5-964d-ba29e8d5ae1c)
+
+
+
 5. Calculate the Euclidean distance between each data point i-th and j-th cluster center dij  
 6. Update fuzzy membership matrix[M] according to dij
 
 
 
 ![Screenshot 2024-02-20 001132](https://github.com/Abdelrahman-Amen/Fuzzy-C-Means-Clustering-from-scratch/assets/103226865/c4401a82-2017-45d0-8cfc-1c5efe7034cf)
+
+
+
 7. Repeat until the changes in [M] come out to be less than some pre-specified values.
 
 
