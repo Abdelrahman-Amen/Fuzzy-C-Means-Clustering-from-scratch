@@ -51,7 +51,7 @@ Whether you're exploring the structure of your data, FCM can be a valuable addit
 
 
 
-## I used two datasets
+## Using two datasets
 ### the first one has a low correlation, so the updated membership matrix was converging very slowly (more iterations).
 ### the second one has a high relative correlation, so the updated membership matrix was converging relatively fast.
  
